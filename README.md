@@ -30,7 +30,7 @@ https://api.github.com/search/repositories?q={vagas}{&page,per_page,sort,order}
 
 https://api.github.com/search/issues?q={react-brasil/vagas}{&page,per_page,state,order}
 
-### Contribuidores: ✨
+# Contribuidores: ✨
 
 Obrigado a essas pessoas maravilhosas
 <table>
