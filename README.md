@@ -1,5 +1,8 @@
 <img src="https://i.imgur.com/OFhvhGa.png" />
 
+# Descrição
+A ideia desse projeto é buscar vagas de emprego no GitHub e que seja fácil para e baixar e rodar esse projeto em seu computador. Você está livre para monetizar esse projeto.
+
 ### Tecnologias propostas
 - Frontend: React 
 - BackEnd: Node
