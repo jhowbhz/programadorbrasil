@@ -1,4 +1,7 @@
-
+### Tecnologias propostas
+- Frontend: React 
+- BackEnd: Node
+- NoDB
 
 ### Busca os repositorios:
 
