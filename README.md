@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/OFhvhGa.png" />
+
 ### Tecnologias propostas
 - Frontend: React 
 - BackEnd: Node
